@@ -7,12 +7,12 @@ using System.Threading.Tasks;
 
 namespace FermaAnimalelor
 {
-    abstract class Animal
+    abstract class Animal:Object
     {
         public bool AnimalHranit { get; private set; }
 
         public bool AnimalAdormit { get; private set; }
-        protected abstract string Rasa { get; }
+        public abstract string Rasa { get; }
         protected abstract IHrana HranaPreferata { get; }
         public void Mananca(IHrana hrana)
         {

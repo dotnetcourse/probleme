@@ -17,6 +17,17 @@ namespace FermaAnimalelor
             //adauga animalele in lista predefinita
             var animale = new Animal[10];
 
+            var vaca = new Vaca();
+            var vaca2 = new Vaca();
+            var vaca3 = new Vaca();
+            var oaie = new Oaie();
+            var oaie2 = new Oaie();
+            var gaina = new Gaina();
+            var gaina2 = new Gaina();
+            var gaina3 = new Gaina();
+            var gaina4 = new Gaina();
+            var gaina5 = new Gaina();
+
 
             //1. Tipareste numarul de gaini calculandul programatic
 

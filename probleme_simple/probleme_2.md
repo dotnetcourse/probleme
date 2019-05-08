@@ -4,9 +4,11 @@
 4. Scrieti un program care citeste de la consola un sir de numere, si apoi il afiseaza in ordine crescatoare.
 
 	Ex:
+	
 	17 9 43 1 8
 
 	va fi afisat:
+	
 	1 8 9 17 43
 
 Pentru a rezolva aceasta problema va fi nevoie sa cercetati algoritmi de sortare. Exmplu de algoritm pe care sa incercati sa-l implementati: Bubble Sort.
@@ -20,10 +22,13 @@ Pentru a rezolva aceasta problema va fi nevoie sa cercetati algoritmi de sortare
 11. Creati un program care citeste de la consola un string care reprezinta comparatia dintre doua numere, si afiseaza true sau false, care sa reprezinte rezultatul comparatiei. Ex:
 
 	33 < 43
+	
 	true
   
 	4>=4
+	
 	true
 
 	6 <1
+	
 	false

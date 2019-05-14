@@ -1,0 +1,2 @@
+1. Scrieti un program care monitorizeaza 3 foldere diferite, pentru orice modificari posibile, si afiseaza la consola modificarile care s-au produs.
+1. Scrieti un program in care mai multi utilizatori pot sa introduca numele sau (fara a inchide programul). Pentru fiecare utilizator se va afisa textul "Bine ati venit <utilizator>", folosind evenimente. Pentru utilizatorii cu nume "Marius" sau "Catalin" se va afisa textul "Alarma!", din alt eveniment.
